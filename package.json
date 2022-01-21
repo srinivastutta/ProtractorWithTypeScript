@@ -21,6 +21,6 @@
     "jasmine": "3.5.0",
     "protractor": "7.0.0",
     "typescript": "3.9.5",
-    "log4js": "6.3.0"
+    "log4js": "6.4.0"
   }
 }
